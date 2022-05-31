@@ -1,0 +1,55 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman Dark ngiht",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman  1",
+      "alterEgo": "Princess Diana"
+    }
+  ],
+  "users":[
+    {
+    "id": "x@gmail.com",
+    "channeld" : "codevoluion"
+
+    }
+  ],
+  "channels":[{
+    "id" : "codevoluion",
+    "courses" : ["reacct" , "vue" , "angluer "]
+  }],
+  "colors" : [{
+    "id": 1 ,
+    "label" : "blue"
+  },
+  {
+    "id": 2 ,
+    "label" : "red"
+  },
+  {
+    "id": 3 ,
+    "label" : "yellow"
+  },{
+    "id": 4 ,
+    "label" : "black"
+  },{
+    "id": 5 ,
+    "label" : "gray"
+  },{
+    "id": 6 ,
+    "label" : "green"
+  },{
+    "id": 7 ,
+    "label" : "rose"
+  }
+]
+}
